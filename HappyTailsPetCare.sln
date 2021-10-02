@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HappyTailsPetCare", "..\..\..\OneDrive\Computing\HappyTailsPetCare\", "{7D81731E-3246-4BAA-B898-BD8BDC765594}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53801"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Computing\HappyTailsPetCare\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53801\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53801"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Computing\HappyTailsPetCare\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53801\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53801"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D81731E-3246-4BAA-B898-BD8BDC765594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D81731E-3246-4BAA-B898-BD8BDC765594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C471B92A-CA82-4612-9615-B757C98023D3}
+	EndGlobalSection
+EndGlobal
