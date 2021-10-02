@@ -4,7 +4,7 @@ http://happytailscare.biz
 
 by Michael G. Workman
 
-Space Coast, Florida Dog Walking, Pet Care Home Visits, and Pet Sitting
+Space Coast Florida Dog Walking, Pet Care Home Visits, and Pet Sitting
 
 Freely distributable under terms of MIT Open Source License
 
